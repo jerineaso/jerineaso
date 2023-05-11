@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Computer Science Engineering Student || Front End Developer
+# Computer Science Engineer || Front End Developer
 
 - 🔭 I’m currently working on my own Portfolio Website! && Planning to start a side project
 - 🌱 I’m currently learning React 🤣
